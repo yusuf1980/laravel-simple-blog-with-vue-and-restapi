@@ -1,5 +1,7 @@
 # Laravel Simple Blog with Vue.js and RestAPI (Passport)
 
+Simple blog create with Framework - Laravel UI and Vue.js, also using RestAPI with Passport Package. Html framework use Tailwind.
+
 ## Blog Laravel Vue.js API (How to Install)
 
 
