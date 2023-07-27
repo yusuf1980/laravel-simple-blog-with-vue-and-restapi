@@ -1,4 +1,4 @@
-#Laravel Simple Blog with Vue.js and RestAPI (Laravel UI)
+#Laravel Simple Blog with Vue.js and RestAPI (Passport)
 
 ## Blog Laravel Vue.js API (How to Install)
 
